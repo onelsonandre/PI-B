@@ -1,0 +1,32 @@
+.container {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    max-width: 350px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 10%;
+
+    border-radius: 10px;
+
+}
+
+body {
+    background-size: cover;
+    background-image: url(./creme.jpg);
+
+ 
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+
+    width:100%;
+    display:block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
